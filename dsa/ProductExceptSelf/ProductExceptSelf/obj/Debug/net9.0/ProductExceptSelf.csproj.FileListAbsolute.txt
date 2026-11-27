@@ -1,0 +1,15 @@
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\bin\Debug\net9.0\ProductExceptSelf.exe
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\bin\Debug\net9.0\ProductExceptSelf.deps.json
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\bin\Debug\net9.0\ProductExceptSelf.runtimeconfig.json
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\bin\Debug\net9.0\ProductExceptSelf.dll
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\bin\Debug\net9.0\ProductExceptSelf.pdb
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.AssemblyInfoInputs.cache
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.AssemblyInfo.cs
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.csproj.CoreCompileInputs.cache
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.sourcelink.json
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.dll
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\refint\ProductExceptSelf.dll
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.pdb
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ProductExceptSelf.genruntimeconfig.cache
+D:\.NET Course\Assignments\Database\omarsalem33-Database-Assignment-2-Creating-Tables\dsa\ProductExceptSelf\ProductExceptSelf\obj\Debug\net9.0\ref\ProductExceptSelf.dll
